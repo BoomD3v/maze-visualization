@@ -1,4 +1,4 @@
-# Depth-First and Breadth-First Maze Builder and Visualization
+# Maze Builder and Visualization
 
 An interactive program built in [Processing](https://processing.org/) that allows users to customize mazes and test them using [Depth-First](https://en.wikipedia.org/wiki/Depth-first_search) and [Breadth-First](https://en.wikipedia.org/wiki/Breadth-first_search) search techniques. These search algorithms that are utilized during the maze visualization are based upon their respective functionality within the application of binary trees.
 
